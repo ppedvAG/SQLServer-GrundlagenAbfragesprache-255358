@@ -1,3 +1,4 @@
+USE Northwind
 -- 1. Alle Produkte (ProductNames) aus den Kategorien "Beverages" und "Produce"
 -- (CategoryName in Categories)
 --> Products - Categories Tables
